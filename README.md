@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center"> <img src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47gurqm89r85jgypry75xw8r3wnjce7jhhpzmgxn4a&rid=giphy.gif&ct=g"/></div>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -33,3 +35,4 @@ I am on my path to become Front-End Developer <img src="https://media.giphy.com/
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paltoalko&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paltoalko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
