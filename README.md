@@ -13,12 +13,13 @@
 
 ### :woman_technologist: About Me :
 
-Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland. My journey began in September 2021, when I decided that I want to become a programmer. From then I've been learning and creating projects. In May 2022 I joined an IT company as an intern in which I was responsible for creating solutions for the client, using technologies such as React, TypeScript and other. And now...   
 
-- :telescope: Currently I'm working on my own app to help me and others manage time.
+- :telescope: I'm working on my own app to help me and others manage time.
 - :seedling: I'm always learning.
 - :surfing_woman: Besides being a (always learning) programmer, I'm also a windsurfer.
-- :female_detective: Also I'm interested in Cyber Security.
+- :female_detective: Also I'm interested in Cyber Security and 
+- :woman_artist: UI/UX Design
 - :mailbox: How to reach me: (soon)
 
 
