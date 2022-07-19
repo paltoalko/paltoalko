@@ -15,10 +15,12 @@
 
 I am on my path to become Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- :telescope: Currently I'm learning frameworks such as React.
-- :seedling: I'm still learning tho.
-- :surfing_woman: Besides being a (still learning) programmer, I'm also a windsurfer.
+- :telescope: Currently I'm working on my own app to help me and others manage time.
+- :seedling: I'm always learning.
+- :surfing_woman: Besides being a (always learning) programmer, I'm also a windsurfer.
+- :lock: Also I'm interested in Cyber Security.
 - :mailbox:How to reach me: (soon)
+
 
 ---
 
@@ -28,6 +30,14 @@ I am on my path to become Front-End Developer <img src="https://media.giphy.com/
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"  title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg"  title="CONFLUENCE" alt="CONFLUENCE" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="FIGMA" alt="FIGMA" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="AI" alt="AI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg  title="XD" alt="XD" width="40" height="40"/>&nbsp;
 </div>
 
 ---
