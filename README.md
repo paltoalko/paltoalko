@@ -35,7 +35,7 @@ Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="TS" alt="TS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"  title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg"  title="CONFLUENCE" alt="CONFLUENCE" width="40" height="40"/>&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="FIGMA" alt="FIGMA" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="AI" alt="AI" width="40" height="40"/>&nbsp;
