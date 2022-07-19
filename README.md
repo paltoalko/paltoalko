@@ -13,13 +13,13 @@
 
 ### :woman_technologist: About Me :
 
-I am on my path to become Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
 - :telescope: Currently I'm working on my own app to help me and others manage time.
 - :seedling: I'm always learning.
 - :surfing_woman: Besides being a (always learning) programmer, I'm also a windsurfer.
-- :lock: Also I'm interested in Cyber Security.
-- :mailbox:How to reach me: (soon)
+- :female_detective: Also I'm interested in Cyber Security.
+- :mailbox: How to reach me: (soon)
 
 
 ---
@@ -37,7 +37,7 @@ I am on my path to become Front-End Developer <img src="https://media.giphy.com/
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="FIGMA" alt="FIGMA" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="AI" alt="AI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg  title="XD" alt="XD" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"  title="XD" alt="XD" width="40" height="40"/>&nbsp;
 </div>
 
 ---
