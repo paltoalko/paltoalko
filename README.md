@@ -17,8 +17,8 @@ Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I'm working on web app to help me and others manage time.
 - :seedling: I'm always learning.
-- :surfing_woman: Besides being a (always learning) programmer, I'm also a windsurfer.
-- :female_detective: Also I'm interested in Cyber Security and 
+- :surfing_woman: Besides being an (always learning) programmer, I'm also a windsurfer.
+- :female_detective: Also I'm interested in Cyber Security
 - :woman_artist: UI/UX Design
 - :mailbox: How to reach me: www.linkedin.com/in/marta-wesolowska
 
