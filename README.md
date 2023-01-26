@@ -15,7 +15,7 @@
 
 Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland. My journey began in September 2021, when I decided that I want to become a programmer. From then I've been learning and creating projects. In May 2022 I joined an IT company as an intern in which I was responsible for creating solutions for the client, using technologies such as React, TypeScript and other. And now...   
 
-- :telescope: I'm working on web app to help me and others manage time.
+- :telescope: I'm working as a freelancer and currently I'm building a website for a client.
 - :seedling: I'm always learning.
 - :surfing_woman: Besides being an (always learning) programmer, I'm also a windsurfer.
 - :female_detective: Also I'm interested in Cyber Security
